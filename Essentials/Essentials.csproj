@@ -16,9 +16,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Data\" />
-      <Folder Include="DTOs\" />
-      <Folder Include="Models\" />
       <Folder Include="Services\" />
     </ItemGroup>
 
